@@ -11,8 +11,7 @@ _Key Objectives:_
 5.	Property Insights: Compare different property types (entire homes, private rooms, etc.) to determine their demand and pricing differences.
 _Data Cleaning and Preprocessing: Ensure the dataset is ready for analysis by handling missing values, duplicates, and outliers_
 6.	Visualization: Use tools Tableau to create visual dashboards for easier interpretation.
-7.	Statistical Analysis: Analyze correlations and patterns within the data.
-_Insights into the most lucrative neighborhoods for Airbnb listings in NYC_
+7.	Statistical Analysis: Analyze correlations and patterns within the data. Insights into the most lucrative neighborhoods for Airbnb listings in NYC.
 8.	Recommendations for hosts on optimizing pricing and availability strategies.
 9.	An understanding of seasonal fluctuations in Airbnb demand.
 
