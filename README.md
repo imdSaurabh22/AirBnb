@@ -1,9 +1,5 @@
 # AirBnb
-
-
-
-
-
+![Dashboard 1 (1)](https://github.com/user-attachments/assets/dd4bf766-bbeb-42a3-a77b-813369bac600)
 This project focuses on analyzing Airbnb listings in New York City to uncover valuable insights about rental trends, pricing strategies, and neighborhood dynamics. The analysis leverages Airbnb’s publicly available data, which includes key details such as listing prices, property types, host information, availability, and customer reviews.
 
 _Key Objectives:_
