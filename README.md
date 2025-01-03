@@ -3,7 +3,7 @@
 This project focuses on analyzing Airbnb listings in New York City to uncover valuable insights about rental trends, pricing strategies, and neighborhood dynamics. The analysis leverages Airbnb’s publicly available data, which includes key details such as listing prices, property types, host information, availability, and customer reviews.
 
 _Key Objectives:_
-Steps to Perform: 
+
 1.	Price Analysis: Evaluate pricing patterns across boroughs (Manhattan, Brooklyn, Queens, Bronx, and Staten Island) to determine factors influencing rental rates .Use Sample Superstore Dataset
 2.	Demand Trends: Identify areas with high booking rates and analyze seasonal availability trends. Use Group by from Data Source Table on a Folder to create a folder to segregate the required data for Customer Name and Order ID in order to organize the data thoroughly.
 3.	Neighborhood Performance: Assess the popularity and performance of neighborhoods based on listings, average prices, and customer reviews.
@@ -11,8 +11,8 @@ Steps to Perform:
 5.	Property Insights: Compare different property types (entire homes, private rooms, etc.) to determine their demand and pricing differences.
 _Data Cleaning and Preprocessing: Ensure the dataset is ready for analysis by handling missing values, duplicates, and outliers_
 6.	Visualization: Use tools Tableau to create visual dashboards for easier interpretation.
-7.	Statistical Analysis: Analyze correlations and patterns within the data
-_Insights into the most lucrative neighborhoods for Airbnb listings in NYC ._
+7.	Statistical Analysis: Analyze correlations and patterns within the data.
+_Insights into the most lucrative neighborhoods for Airbnb listings in NYC_
 8.	Recommendations for hosts on optimizing pricing and availability strategies.
 9.	An understanding of seasonal fluctuations in Airbnb demand.
 
